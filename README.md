@@ -1,6 +1,6 @@
  E-Commerc
 
- prompt: make a conclusion of all charts
+ PROBLEM STATMENTS WITH ANALYSIS
 
  Conclusion and Recommendations based on the visualizations:
 
@@ -27,10 +27,6 @@
  - Segment customers within each category to identify high-value customers.
  - Monitor trends continuously for potential issues and adjust strategies as needed.
  - Investigate the cause of the high Sales-to-Profit Ratio within the Home Office segment.
-
- prompt: gave recommendation of all chart
-
- Recommendations based on the provided analysis:
 
  1. Investigate Seasonal Trends and External Factors:
     - The monthly sales and profit analyses show fluctuations throughout the year.  
